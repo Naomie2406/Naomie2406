@@ -2,7 +2,6 @@
 
 🎓 Diplômée d’un MSc Data Analytics & Manager Marketing & d'une certification Data Analyst en BootCamp  
 💻 +2 ans d'XP en tant que Data Analyst chez EXADIS   
-📊 Data Analyst spécialisée en migration BI & bases de données   
 📧 Me contacter : naomieluendu24@gmail.com  
 📍 Basée en France  
 
